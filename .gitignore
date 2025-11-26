@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+models/
+data/*.csv
+*.h5
+*.tflite
+*.log
+.env
